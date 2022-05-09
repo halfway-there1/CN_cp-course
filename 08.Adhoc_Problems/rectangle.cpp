@@ -86,3 +86,7 @@ int main() {
     
     return 0;
 }
+
+/* Time complexity  :  O(n) --> n + n/2
+   Space complexity :  O(1)
+*/
